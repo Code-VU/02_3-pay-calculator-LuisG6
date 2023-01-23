@@ -7,7 +7,7 @@ def calculatePay():
     
     pay = hrs * rate
 
-    print(pay)
+    print(pay) 
 
     # end assignment
 
